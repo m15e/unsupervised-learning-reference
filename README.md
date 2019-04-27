@@ -1,5 +1,4 @@
-# Unsupervised Learning Reference | Data Analysis
-Discovering Wholesale Customer Segments
+# Unsupervised Learning Reference: Discovering Wholesale Customer Segments
 
 - Implementation of feature importance function
 - Scatterplot and heatmap to check for feature correlations

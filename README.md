@@ -7,7 +7,7 @@
 - Box-cox test
 - Turkey's method outlier detection (e.g 1.5 x interquartile range)
 - KDE chart of data when outliers have been removed and we have taken the log
-- Conduct Principal Component Analysis(PCA)  to look at how compound features influence variance
+- Conduct Principal Component Analysis(PCA)  to see how compound features influence variance
 - Dimensionality Reduction
 - Map original features to principal components from "cleaned" data and PCA reduced data
 - Compare K-means clustering to Gaussian Mixture models
